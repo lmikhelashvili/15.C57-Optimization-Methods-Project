@@ -1,0 +1,5 @@
+method,avg_minutes,worst_zip_minutes,seconds_saved_vs_status_quo,selected_sites
+Status quo (P = 0),2.16,6.65,0.0,
+Busiest-first,2.14,6.63,0.8,"2, 3, 11, 1, 13"
+Greedy,2.06,6.63,5.6,"7, 4, 14, 2, 13"
+Optimization,2.06,6.63,5.6,"2, 4, 7, 13, 14"
