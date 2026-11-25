@@ -1,0 +1,4 @@
+method,selected_pins,worst_case_minutes,seconds_saved_vs_status_quo
+Status quo,,3.9888,0.0
+Greedy,"35, 41, 40, 39, 26",3.8248,9.845
+Optimization,"26, 35, 39, 40, 41",3.8248,9.845
