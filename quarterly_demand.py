@@ -8,7 +8,9 @@ areas the same way as data/call_weights_by_zip.csv.
 import csv, sys, math, collections
 from datetime import date, timedelta
 
-calls_file, weights_file, out_file = sys.argv[1:4]
+calls_file = "data/weekday_daytime_calls.csv"
+weights_file = "data/call_weights_by_zip.csv"
+out_file = "data/quarterly_demand_v1.csv"
 MERGE = {"11249": "11211", "11251": "11211", "11241": "11201", "11242": "11201"}   # as in call_weights_by_zip.csv
 areas = {r["zipcode"] for r in csv.DictReader(open(weights_file))}
 

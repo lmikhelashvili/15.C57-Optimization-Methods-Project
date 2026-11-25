@@ -1,0 +1,21 @@
+quarter,site_id,lat,lon,zip,area
+Q1,30,40.663128,-73.898442,11207,East New York/Brownsville
+Q1,35,40.67123,-73.942836,11213,Between Flatbush and Bed-Stuy/Bushwick
+Q1,39,40.636516,-74.01432,11220,Bay Ridge/Sunset Park
+Q1,40,40.637644,-73.906864,11236,Canarsie/Flatlands
+Q1,42,40.67437,-73.873227,11208,Cypress Hills/City Line
+Q2,30,40.663128,-73.898442,11207,East New York/Brownsville
+Q2,35,40.67123,-73.942836,11213,Between Flatbush and Bed-Stuy/Bushwick
+Q2,39,40.636516,-74.01432,11220,Bay Ridge/Sunset Park
+Q2,40,40.637644,-73.906864,11236,Canarsie/Flatlands
+Q2,42,40.67437,-73.873227,11208,Cypress Hills/City Line
+Q3,30,40.663128,-73.898442,11207,East New York/Brownsville
+Q3,35,40.67123,-73.942836,11213,Between Flatbush and Bed-Stuy/Bushwick
+Q3,37,40.687416,-73.953199,11216,Between Downtown/Park Slope and Bed-Stuy/Bushwick
+Q3,39,40.636516,-74.01432,11220,Bay Ridge/Sunset Park
+Q3,42,40.67437,-73.873227,11208,Cypress Hills/City Line
+Q4,30,40.663128,-73.898442,11207,East New York/Brownsville
+Q4,35,40.67123,-73.942836,11213,Between Flatbush and Bed-Stuy/Bushwick
+Q4,39,40.636516,-74.01432,11220,Bay Ridge/Sunset Park
+Q4,40,40.637644,-73.906864,11236,Canarsie/Flatlands
+Q4,42,40.67437,-73.873227,11208,Cypress Hills/City Line
