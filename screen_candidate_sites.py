@@ -152,7 +152,7 @@ def write_csv(path, fields, rows):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("input", nargs="?", type=Path, default=Path("data/candidate_sites.csv"))
+    parser.add_argument("input", nargs="?", type=Path, default=Path("data/candidate_sites_v2.csv"))
     parser.add_argument("--max-snap-m", type=float, default=30, help="Review cutoff in meters (default 30).")
     args = parser.parse_args()
     if not 0 < args.max_snap_m <= SEARCH_CUTOFF_M:
